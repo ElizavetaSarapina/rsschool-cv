@@ -29,4 +29,10 @@ I believe, that my ability to learn and to gain new skills will lead me through 
 
 ---
 
+### Courses:
+
+- RS Schools Course «JavaScript/Front-end. Stage 0» (in progress)
+
+---
+
 
