@@ -35,4 +35,9 @@ I believe, that my ability to learn and to gain new skills will lead me through 
 
 ---
 
+### Languages:
 
+- English \- Intermediate/Upper-intermediate 
+- Russian \- Native
+- Belarussian \- Native
+- Polish \- Basic
